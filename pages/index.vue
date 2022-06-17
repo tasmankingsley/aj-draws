@@ -10,6 +10,6 @@ export default {
 
 <style>
 html {
-  background-color: #000;
+  background-color: #1e1f29;
 }
 </style>
